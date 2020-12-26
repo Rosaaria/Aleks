@@ -8,6 +8,7 @@ namespace exampleProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Commit TWO BABY ! ");
+            Console.WriteLine("Fork Guide");
         }
     }
 }
