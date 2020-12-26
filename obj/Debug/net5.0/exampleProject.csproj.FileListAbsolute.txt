@@ -1,0 +1,15 @@
+/Users/jordan/Desktop/projects/exampleProject/bin/Debug/net5.0/exampleProject.deps.json
+/Users/jordan/Desktop/projects/exampleProject/bin/Debug/net5.0/exampleProject.runtimeconfig.json
+/Users/jordan/Desktop/projects/exampleProject/bin/Debug/net5.0/exampleProject.runtimeconfig.dev.json
+/Users/jordan/Desktop/projects/exampleProject/bin/Debug/net5.0/exampleProject.dll
+/Users/jordan/Desktop/projects/exampleProject/bin/Debug/net5.0/ref/exampleProject.dll
+/Users/jordan/Desktop/projects/exampleProject/bin/Debug/net5.0/exampleProject.pdb
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.csprojAssemblyReference.cache
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.AssemblyInfoInputs.cache
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.AssemblyInfo.cs
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.csproj.CoreCompileInputs.cache
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.dll
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/ref/exampleProject.dll
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.pdb
+/Users/jordan/Desktop/projects/exampleProject/obj/Debug/net5.0/exampleProject.genruntimeconfig.cache
