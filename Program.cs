@@ -10,6 +10,8 @@ namespace exampleProject
             Console.WriteLine("Commit TWO BABY ! ");
             Console.WriteLine("Fork Guide");
             Console.WriteLine("Branch test lal land 27578 ");
+
+            Console.WriteLine("pogii");
         }
     }
 }
